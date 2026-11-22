@@ -1,0 +1,6 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"22-1","Straw history","历史条目","时间","吸管发展节点","","","时间模块"
+"22-2","Straw types","类别集合","类型","不同吸管/容器形态","","","类型示意"
+"22-3","Usage","用途条目","场景","吸管使用与消费场景","","","主题说明"
+"22-4","Marine impact","影响条目","海洋环境","废弃吸管相关生态影响","","","生态插画"
+"22-5","Marine animals","对象集合","海洋","鲸/海龟/鱼类等生态对象","","","主题插画"
