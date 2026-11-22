@@ -1,0 +1,7 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"25-1","Product","产品","越红酒","产品名称与品牌识别","","","主视觉"
+"25-2","Flavor","属性","风味","味/香/色描述","","","属性模块"
+"25-3","Origin","产地","浙江上虞等图面地名","产地信息与地图","","","地图/文字"
+"25-4","Ingredients","原料","制作","图示原料","","","原料模块"
+"25-5","Production steps","步骤","制作流程","图示连续工序","","","流程图"
+"25-6","Awards","荣誉","年份/奖项","图示荣誉项目","","","徽章模块"
