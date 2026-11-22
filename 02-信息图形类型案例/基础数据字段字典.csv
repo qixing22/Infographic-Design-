@@ -1,0 +1,11 @@
+field,definition,data_type,unit,notes
+record_id,本案例记录唯一编号,string,,每条记录唯一
+item_name,图面可见对象或事件名称,string,,仅录入可辨识内容
+category,对象所属类别,string,,依图面语义归类
+time_or_place,时间或地点,string,,无法确认时留空
+attribute,对象属性,string,,避免将多个属性写入同一单元格
+value,原始数值,number,,无可靠原始值时留空
+unit,数值单位,string,,与数值分列
+visual_role,该记录在图中的视觉作用,string,,节点/主图对象/分类项/指标等
+evidence_status,证据状态,string,,visible_label_or_structure或needs_verification
+source,来源标识,string,,本批使用上传文件名
