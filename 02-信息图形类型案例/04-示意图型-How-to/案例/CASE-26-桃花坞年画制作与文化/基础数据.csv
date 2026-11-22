@@ -1,0 +1,6 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"26-1","Finished print","作品","年画","中央年画人物/作品","","","主插画"
+"26-2","Tools","工具集合","制作","版刻/印制相关工具图","","","工具图解"
+"26-3","Materials","材料集合","制作","纸张、颜料等材料线索","","","材料模块"
+"26-4","Process","工艺步骤","制作","制作工序的分解示意","","","步骤图"
+"26-5","Color samples","色彩类别","视觉语言","多种色彩样本","","","色块编码"
