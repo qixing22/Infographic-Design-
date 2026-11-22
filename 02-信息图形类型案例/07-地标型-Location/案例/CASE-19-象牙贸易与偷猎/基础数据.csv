@@ -1,0 +1,5 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"19-1","Africa","区域","空间分布","象牙偷猎/贸易相关区域","","","地图定位"
+"19-2","Asia","区域","空间分布","象牙需求/贸易相关区域","","","地图定位"
+"19-3","Elephant tusk","对象部件","结构说明","象牙结构与用途","","","结构插画"
+"19-4","Poaching indicators","统计指标","趋势/比较","图中存在统计图表，精确数值不可辨","","","统计图"
