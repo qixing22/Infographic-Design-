@@ -1,0 +1,5 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"20-1","Statue of Unity","雕像","印度古吉拉特邦","建设/高度信息","","","主视觉"
+"20-2","Other Indian monuments","雕像集合","印度多地","位置与尺寸比较","","","底部对比"
+"20-3","Top 5","排名集合","印度","雕像/建筑排名信息","","","右侧榜单"
+"20-4","India locations","地点集合","印度","地图标注地点","","","地图"
