@@ -1,0 +1,6 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"23-1","Whaling history","历史事件","时间","捕鲸历史节点","","","时间轴"
+"23-2","Whale families","鲸类家族","分类","鲸类家族/分类单元","","","分类图"
+"23-3","Whale locations","分布区域","地理","鲸类出现/分布地点","","","世界地图"
+"23-4","Country contribution","国家贡献","国家/地区","国家贡献比例标签","","%","气泡/比例图"
+"23-5","Threats and actions","威胁与行动","保护议题","船舶撞击、捕鲸及保护倡议","","","文字模块"
