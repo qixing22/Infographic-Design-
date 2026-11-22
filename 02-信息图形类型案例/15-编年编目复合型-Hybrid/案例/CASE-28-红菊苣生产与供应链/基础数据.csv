@@ -1,0 +1,8 @@
+record_id,entity,category,period_or_location,attribute,value,unit,visual_role,source_note
+"28-1","Variety","品种","红菊苣","不同红菊苣类型","","","顶部品种条目"
+"28-2","Growing area","产区","意大利威尼托地区","产地/区域信息","","","地图"
+"28-3","Cultivation","生产阶段","种植","种植阶段","","","环形节点"
+"28-4","Harvest","生产阶段","采收","采收阶段","","","环形节点"
+"28-5","Processing","生产阶段","加工","加工/处理阶段","","","环形节点"
+"28-6","Distribution and sale","供应链阶段","分销/销售","流通与消费关系","","","环形节点"
+"28-7","Annual indicators","统计记录","年份","产量/价格等趋势图","","","条形/折线"
