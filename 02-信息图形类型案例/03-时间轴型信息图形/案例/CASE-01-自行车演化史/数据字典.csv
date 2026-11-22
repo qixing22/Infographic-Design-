@@ -1,0 +1,11 @@
+field,definition,data_type,unit,notes
+record_id,本案例记录唯一编号,string,,本地生成
+item_name,图面可见对象/事件/条目,string,,仅录入可辨识内容
+category,对象所属主题类别,string,,按图面结构归纳
+time_or_place,时间或地点,string,,不确定留空
+attribute,对象属性,string,,待核验
+value,原始数值,number,,无可靠数值留空
+unit,数值单位,string,,数字与单位分列
+visual_role,图面功能,string,,如节点/主体/分类项
+evidence_status,证据状态,string,,标注可见或推断
+source,来源标识,string,,上传图片文件名
