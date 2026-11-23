@@ -1,0 +1,9 @@
+record_id,module,item_name,value,unit,evidence_status,notes
+MOAI-001,数量统计,摩艾石像总数,887,座,visible_high,图面可辨认
+MOAI-002,运输信息,运送至最终位置的石像数量,228,座,visible_medium,图中文字可辨认但原始统计口径待核验
+MOAI-003,重量比较,最重石像相关重量,80,吨,visible_medium,与“最重”模块相邻；具体对象及出处待核验
+MOAI-004,尺寸参照,图中高度刻度,1,米,visible_medium,尺寸剪影刻度；不代表某一具体石像测量值
+MOAI-005,尺寸参照,图中高度刻度,3,米,visible_medium,尺寸剪影刻度；不代表某一具体石像测量值
+MOAI-006,尺寸参照,图中高度刻度,5,米,visible_medium,尺寸剪影刻度；不代表某一具体石像测量值
+MOAI-007,尺寸参照,图中高度刻度,7,米,visible_medium,尺寸剪影刻度；不代表某一具体石像测量值
+MOAI-008,尺寸参照,图中高度刻度,9,米,visible_medium,尺寸剪影刻度；不代表某一具体石像测量值
