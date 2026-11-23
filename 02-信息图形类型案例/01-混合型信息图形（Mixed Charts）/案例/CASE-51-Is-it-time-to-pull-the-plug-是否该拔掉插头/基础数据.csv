@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-51,已确认
+title,"Is it time to pull the plug?｜是否该拔掉插头",图面可辨识
+original_filename,"4.25.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"01 混合型",分类判断
+data_structure,"问题背景、消费趋势、Netflix案例、影响因素与观点等专题，四个编号章节推进论证。",图面初步拆解
+visual_encoding,"旋转长幅布局；四个大号编号导航；彩色圆形图表作视觉锚点，细线连接论点与数据；黑白灰底配橙绿强调。",图面初步拆解
+visual_narrative,"按1至4从问题定义进入趋势与案例，再讨论影响和更大的行业图景。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
