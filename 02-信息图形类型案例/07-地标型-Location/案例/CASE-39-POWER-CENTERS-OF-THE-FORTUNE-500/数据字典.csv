@@ -1,0 +1,10 @@
+field_name,data_type,description,unit,example
+ID,string,都市圈唯一编号,,M001
+大都市区,string,都市圈名称,,New York
+原始数值,number,图面原始收入数值,trillion或billion,1.775
+原始单位,string,图面原始收入单位,,trillion
+统一数值,number,换算为统一单位后的收入数值,十亿美元,1775
+统一单位,string,统一后的收入单位,,十亿美元
+排名,integer,图面前15都市圈排名,,1
+年份,integer,图面统计年度,,2019
+证据状态,string,数据读取状态,,图像读取
