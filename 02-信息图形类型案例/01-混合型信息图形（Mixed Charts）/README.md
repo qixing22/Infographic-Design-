@@ -22,3 +22,9 @@
 ## 案例索引
 
 - CASE-38 已按用户要求舍弃，不再计入有效案例。
+
+
+## 2026-11-23｜新增案例
+- [CASE-44](./案例/CASE-44-The-hunters-and-the-hunted-捕鲸者与鲸/分析.md)
+- [CASE-49](./案例/CASE-49-全球气候变暖-Global-warming/分析.md)
+- [CASE-51](./案例/CASE-51-Is-it-time-to-pull-the-plug-是否该拔掉插头/分析.md)
