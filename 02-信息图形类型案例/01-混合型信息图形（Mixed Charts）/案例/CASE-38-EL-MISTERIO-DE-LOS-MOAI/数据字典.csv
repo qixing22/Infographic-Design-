@@ -1,0 +1,8 @@
+field_name,data_type,description,example
+record_id,string,记录唯一编号,MOAI-001
+module,string,所属信息模块,数量统计
+item_name,string,图面指标或参照对象名称,摩艾石像总数
+value,number,图面可辨认数值,887
+unit,string,数值单位,座
+evidence_status,string,识别可信度标记,visible_high
+notes,string,识别限制或补充说明,统计口径待核验
