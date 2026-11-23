@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-56,已确认
+title,"Future Food 2040｜未来植物肉生产",图面可辨识
+original_filename,"5.7.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"05 流程图型",分类判断
+data_structure,"编号1—8组织植物原料、提取植物蛋白、发酵膨化、制造红蛋白、调味、冷却、植物肉成型及环境影响等环节。",图面初步拆解
+visual_encoding,"中央大型机器以管道串联步骤；编号圆点与箭头标识流程；绿色、青色和黄色区分原料设备产物；底部条形图补充环境指标。",图面初步拆解
+visual_narrative,"从原料进入机器开始，沿设备路径展示加工过程，最终到达产品，并以环境指标补充价值判断。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
