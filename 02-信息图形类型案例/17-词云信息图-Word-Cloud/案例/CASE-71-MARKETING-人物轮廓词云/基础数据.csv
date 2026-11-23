@@ -1,0 +1,11 @@
+field,meaning,data_type,source,notes
+case_id,案例编号,text,仓库归档,CASE-71
+title,案例标题,text,图面识别,MARKETING｜人物轮廓造型词云
+primary_logic,五大基础逻辑,text,图面判读,04 字母表型
+presentation_tag,17类表现标签,text,图面判读,17 词云信息图
+original_filename,用户上传文件名,text,用户附件,image(3).png
+original_resolution,图像像素尺寸,text,本地文件检测,455×900
+original_sha256,原图校验,text,本地文件检测,d9a885e2b556c13ca4c437da57829d19fb721d84cc5cb19097bb7d6ea1f04a5a
+raw_corpus,原始语料,text,未提供,未知
+frequency_weights,词频与权重,text,未提供,未知
+image_status,GitHub原图状态,text,GitHub连接器能力,二进制待上传
