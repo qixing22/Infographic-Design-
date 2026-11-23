@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-50,已确认
+title,"妙方止咳｜Prescription of relieving cough",图面可辨识
+original_filename,"4.25 1.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"12 解剖型",分类判断
+data_structure,"围绕咳嗽症状、身体部位、传统药材／配方、辨证分类、调理方式与生活建议构成多组知识条目。",图面初步拆解
+visual_encoding,"中央面部与呼吸系统图像构成主视觉；肺部和气道用高对比色突出；周边药材、症状和调理模块以箭头、编号、色块关联。",图面初步拆解
+visual_narrative,"先展示咳嗽相关身体症状，再指向呼吸系统和辨证逻辑，最后呈现药材、方法及调理信息。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
