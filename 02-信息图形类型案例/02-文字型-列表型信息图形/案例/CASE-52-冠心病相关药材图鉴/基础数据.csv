@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-52,已确认
+title,"冠心病相关药材图鉴",图面可辨识
+original_filename,"4b16aecb00892018086bdfe61b142ef0.jpg",上传文件名
+primary_logic,"04 字母表型",分类判断
+primary_tag,"02 文字型／列表型",分类判断
+data_structure,"多个药材条目为相互独立的数据单元；每项含名称、形态插图、产地／分布、属性与用途。条目均匀分布，不依赖严格时间或等级顺序。",图面初步拆解
+visual_encoding,"网格化分区和一致卡片模板；药材线描插画作识别符；名称与说明固定位置排列；地图和色块补充地域与属性。",图面初步拆解
+visual_narrative,"主题标题引入药材集合，读者按条目逐项浏览和横向比较，而非沿单一时间线阅读。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
