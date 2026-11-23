@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-42,已确认
+title,"Cracking the enigma｜兵马俑制作与复原过程",图面可辨识
+original_filename,"3.16.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"05 流程图型",分类判断
+data_structure,"以制作／复原步骤为顺序记录，图中可见材料提取与准备、人物塑形、烧制、上色等工序；编号步骤需按高清原图逐项校对。",图面初步拆解
+visual_encoding,"中央完整兵马俑作为结果物；四周按工艺阶段分区，编号、箭头、局部放大图连接操作步骤；土色、陶土色与灰蓝色区分材料、成品与过程示意。",图面初步拆解
+visual_narrative,"先展示最终兵马俑，再从材料准备、塑形、烧制到上色逐步拆解，形成从原料到成品的过程叙事。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
