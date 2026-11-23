@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-45,已确认
+title,"金庸武侠作品与人物信息图",图面可辨识
+original_filename,"3.21.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"15 编年编目复合型",分类判断
+data_structure,"以金庸创作／生平时间及历史朝代顺序为主线，同时汇集作品、人物、武功、饮食等主题清单与统计。",图面初步拆解
+visual_encoding,"上部人物群像与书法标题建立文化主题；斜向长时间带串联朝代／年代；下部用书籍图像、人物与饮食插图分组；红、金、黑色用于强调类别和重点。",图面初步拆解
+visual_narrative,"由金庸及作品视觉入口开始，沿年代带浏览创作与时代背景，再进入作品、人物、文化细节等分类信息。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
