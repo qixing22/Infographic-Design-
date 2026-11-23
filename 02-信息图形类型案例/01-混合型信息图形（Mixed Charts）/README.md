@@ -20,4 +20,5 @@
 - 哪些编码是定量编码，哪些是分类或装饰性编码？
 
 ## 案例索引
-- [CASE-38｜EL MISTERIO DE LOS MOAI（摩艾石像之谜）](./案例/CASE-38-EL-MISTERIO-DE-LOS-MOAI/分析.md)
+
+- CASE-38 已按用户要求舍弃，不再计入有效案例。
