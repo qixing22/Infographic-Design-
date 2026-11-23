@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-44,已确认
+title,"The hunters and the hunted｜捕鲸者与鲸",图面可辨识
+original_filename,"3.19.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"01 混合型",分类判断
+data_structure,"主题由鲸种与数量、捕鲸船与装备、鲸体解剖、捕鲸流程、地理范围、公众态度及年度捕鲸数量等多组数据构成。",图面初步拆解
+visual_encoding,"中央鲸与捕鲸船的叙事插画形成冲突场景；顶部物种剪影和数字用于分类比较；下方以步骤图解释捕鲸过程；底部柱状图呈现年度数量变化；地图标示地理范围。",图面初步拆解
+visual_narrative,"以捕鲸冲突场景吸引注意，再由物种、装备、解剖和流程解释事件，最后用地图与统计数据呈现其范围和长期趋势。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
