@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-41,已确认
+title,"130 años de la dama de hierro｜埃菲尔铁塔130年",图面可辨识
+original_filename,"3.12.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"03 时间轴型",分类判断
+data_structure,"事件与年份／日期为主键；1884设计启动、1887施工、1889建成及后续历史节点。图面另含高度、重量、游客量等补充指标，细项需高清核验。",图面初步拆解
+visual_encoding,"左侧蓝色纵向时间带与节点串联历史事件；中央铁塔黑白摄影／结构图作为主视觉锚点；青蓝数字强调重量、高度、游客量；右侧模块以头像、图标、世界地图分组补充背景。",图面初步拆解
+visual_narrative,"以130年主题标题开场，沿左侧年代推进；中央铁塔贯穿全版，右侧解释人物与影响，底部以游客和高度比较扩展到当代价值。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
