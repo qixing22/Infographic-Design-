@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-49,已确认
+title,"全球气候变暖｜Global warming",图面可辨识
+original_filename,"4.23.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"01 混合型",分类判断
+data_structure,"整合气候变化原因、温室气体、生态影响、人口／环境指标、时间序列趋势、海洋与地下水过程等多组数据。",图面初步拆解
+visual_encoding,"中央立体剖切地球／生态场景建立主题；周边卡片用图标、条形图、折线图和剖面图呈现子议题；统一青绿、灰白和深色形成环境主题色。",图面初步拆解
+visual_narrative,"由中央环境场景提出整体问题，四周逐层解释原因、影响和证据，底部以趋势和过程剖面延展到系统层面。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
