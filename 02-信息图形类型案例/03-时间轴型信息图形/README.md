@@ -21,3 +21,5 @@
 
 ## 案例索引
 - 暂无案例。收到案例后，在此建立案例报告链接，并据此更新本说明。
+
+- [CASE-40｜Royal Station Hotel, Forres](./案例/CASE-40-Royal-Station-Hotel-Forres/分析.md)
