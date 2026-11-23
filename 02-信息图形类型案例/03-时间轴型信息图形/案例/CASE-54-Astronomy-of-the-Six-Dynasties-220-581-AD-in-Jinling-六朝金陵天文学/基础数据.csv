@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-54,已确认
+title,"Astronomy of the Six Dynasties (220–581 AD) in Jinling｜六朝金陵天文学",图面可辨识
+original_filename,"05b5d2e830e8495f0272f2db4fc9c22c.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"03 时间轴型",分类判断
+data_structure,"时间范围220—581 AD，围绕六朝时期天文历法发展、观测活动、人物、仪器和历法成就组织。",图面初步拆解
+visual_encoding,"中央大型圆形历法盘为核心；蓝色环带区分时间层；周边模块以标题、符号、仪器插图和小型比较图补充。",图面初步拆解
+visual_narrative,"以220—581年为时间范围，中央历法盘展示系统结构，周边按成就、人物、仪器和发现展开。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
