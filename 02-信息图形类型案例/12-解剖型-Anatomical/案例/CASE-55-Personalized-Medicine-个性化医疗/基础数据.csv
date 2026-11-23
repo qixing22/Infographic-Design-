@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-55,已确认
+title,"Personalized Medicine｜个性化医疗",图面可辨识
+original_filename,"5.6.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"12 解剖型",分类判断
+data_structure,"以人体为中心组织生活习惯、遗传因素、个体差异、研究证据和个性化医疗服务等信息组。",图面初步拆解
+visual_encoding,"中央人体剪影标示身体系统；左右模块以细线连接身体相关区域；黑灰与暗红形成医疗视觉；图标区分生活方式、基因和服务。",图面初步拆解
+visual_narrative,"从人体整体出发，向两侧展开影响健康的不同因素，最后回到个体化医疗概念。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
