@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-46,已确认
+title,"Platform 360｜协作平台工作流程",图面可辨识
+original_filename,"3.24.jpg",上传文件名
+primary_logic,"01 编年型",分类判断
+primary_tag,"05 流程图型",分类判断
+data_structure,"以项目协作从启动到方案表达的阶段顺序组织，包含Kick-off、需求／资源、访谈、概念开发、头脑风暴、路线图、展示等环节。",图面初步拆解
+visual_encoding,"连续弯曲的粗色带形成主流程；人物场景表现每个环节；箭头、节点、标签连接阶段；浅蓝、紫、灰分区区分不同工作区域。",图面初步拆解
+visual_narrative,"沿平台形路径从启动进入协作与研究，再进入概念开发、路线图，最终到提案展示，形成闭环式工作叙事。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
