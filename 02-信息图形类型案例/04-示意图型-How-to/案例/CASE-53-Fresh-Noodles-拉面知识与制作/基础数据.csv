@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-53,已确认
+title,"Fresh Noodles!｜拉面知识与制作",图面可辨识
+original_filename,"4b38e194c1b680c2b1affc2ce9199c78.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"04 示意图型／How-to",分类判断
+data_structure,"由制作过程、历史、面条变体、配料、食用方法和建议等多个并列主题构成；制作步骤是核心子模块之一。",图面初步拆解
+visual_encoding,"中央拉面碗为主视觉；四周分区承载制作、历史、变体、配料与建议；步骤符号和小图标帮助理解；红黑米色形成主题色。",图面初步拆解
+visual_narrative,"从中央成品建立兴趣，再分别说明制作、历史、品种、配料和食用建议，可按需跳读。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
