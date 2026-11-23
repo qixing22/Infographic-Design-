@@ -1,21 +1,11 @@
-# 文字型／列表型信息图形｜案例目录
+# 02-文字型-列表型信息图形｜案例
 
-每件案例单独建立 `CASE-0001-作品名/`，原图与 `分析.md` 同目录。新增案例前核验原图来源和归档许可。
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-## 已归档案例
-- （早期状态已失效，详见下方最新清单）。
+共 3 例。点击案例名查看图文分析与数据预览。
 
-[分类说明](../README.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **3** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-47-The-Hobbit-by-the-numbers-霍比特人数字图鉴 | [分析](./CASE-47-The-Hobbit-by-the-numbers-霍比特人数字图鉴/分析.md) | [CSV](./CASE-47-The-Hobbit-by-the-numbers-霍比特人数字图鉴/基础数据.csv) | [原图](./CASE-47-The-Hobbit-by-the-numbers-霍比特人数字图鉴/原图/3.25.jpg) |
-| CASE-52-冠心病相关药材图鉴 | [分析](./CASE-52-冠心病相关药材图鉴/分析.md) | [CSV](./CASE-52-冠心病相关药材图鉴/基础数据.csv) | [原图](./CASE-52-冠心病相关药材图鉴/原图/4b16aecb00892018086bdfe61b142ef0.jpg) |
-| CASE-57-你坐对了吗-久坐与坐姿健康 | [分析](./CASE-57-你坐对了吗-久坐与坐姿健康/分析.md) | [CSV](./CASE-57-你坐对了吗-久坐与坐姿健康/基础数据.csv) | [原图](./CASE-57-你坐对了吗-久坐与坐姿健康/原图/5.10.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-47 | [The Hobbit by the numbers｜霍比特人数字图鉴](CASE-47-The-Hobbit-by-the-numbers-%E9%9C%8D%E6%AF%94%E7%89%B9%E4%BA%BA%E6%95%B0%E5%AD%97%E5%9B%BE%E9%89%B4/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-47-The-Hobbit-by-the-numbers-%E9%9C%8D%E6%AF%94%E7%89%B9%E4%BA%BA%E6%95%B0%E5%AD%97%E5%9B%BE%E9%89%B4/%E5%8E%9F%E5%9B%BE/3.25.jpg) | [CSV](CASE-47-The-Hobbit-by-the-numbers-%E9%9C%8D%E6%AF%94%E7%89%B9%E4%BA%BA%E6%95%B0%E5%AD%97%E5%9B%BE%E9%89%B4/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-52 | [冠心病相关药材图鉴](CASE-52-%E5%86%A0%E5%BF%83%E7%97%85%E7%9B%B8%E5%85%B3%E8%8D%AF%E6%9D%90%E5%9B%BE%E9%89%B4/%E5%88%86%E6%9E%90.md) | [字母表型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/04-%E5%AD%97%E6%AF%8D%E8%A1%A8%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-52-%E5%86%A0%E5%BF%83%E7%97%85%E7%9B%B8%E5%85%B3%E8%8D%AF%E6%9D%90%E5%9B%BE%E9%89%B4/%E5%8E%9F%E5%9B%BE/4b16aecb00892018086bdfe61b142ef0.jpg) | [CSV](CASE-52-%E5%86%A0%E5%BF%83%E7%97%85%E7%9B%B8%E5%85%B3%E8%8D%AF%E6%9D%90%E5%9B%BE%E9%89%B4/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-57 | [你坐对了吗？｜久坐与坐姿健康](CASE-57-%E4%BD%A0%E5%9D%90%E5%AF%B9%E4%BA%86%E5%90%97-%E4%B9%85%E5%9D%90%E4%B8%8E%E5%9D%90%E5%A7%BF%E5%81%A5%E5%BA%B7/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-57-%E4%BD%A0%E5%9D%90%E5%AF%B9%E4%BA%86%E5%90%97-%E4%B9%85%E5%9D%90%E4%B8%8E%E5%9D%90%E5%A7%BF%E5%81%A5%E5%BA%B7/%E5%8E%9F%E5%9B%BE/5.10.jpg) | [CSV](CASE-57-%E4%BD%A0%E5%9D%90%E5%AF%B9%E4%BA%86%E5%90%97-%E4%B9%85%E5%9D%90%E4%B8%8E%E5%9D%90%E5%A7%BF%E5%81%A5%E5%BA%B7/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |

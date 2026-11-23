@@ -1,25 +1,15 @@
-# 时间轴型信息图形｜案例目录
+# 03-时间轴型信息图形｜案例
 
-每件案例单独建立 `CASE-0001-作品名/`，原图与 `分析.md` 同目录。新增案例前核验原图来源和归档许可。
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-## 已归档案例
-- （早期状态已失效，详见下方最新清单）。
+共 7 例。点击案例名查看图文分析与数据预览。
 
-[分类说明](../README.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **7** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-01-自行车演化史 | [分析](./CASE-01-自行车演化史/分析.md) | [CSV](./CASE-01-自行车演化史/基础数据.csv) | [原图](./CASE-01-自行车演化史/原图/1.1.jpg) |
-| CASE-02-传播方式演进史 | [分析](./CASE-02-传播方式演进史/分析.md) | [CSV](./CASE-02-传播方式演进史/基础数据.csv) | [原图](./CASE-02-传播方式演进史/原图/1.2.jpg) |
-| CASE-09-香奈儿品牌发展历程 | [分析](./CASE-09-香奈儿品牌发展历程/分析.md) | [CSV](./CASE-09-香奈儿品牌发展历程/基础数据.csv) | [原图](./CASE-09-香奈儿品牌发展历程/原图/1.10.jpg) |
-| CASE-12-香港综合格斗发展根源 | [分析](./CASE-12-香港综合格斗发展根源/分析.md) | [CSV](./CASE-12-香港综合格斗发展根源/基础数据.csv) | [原图](./CASE-12-香港综合格斗发展根源/原图/1.13.jpg) |
-| CASE-40-Royal-Station-Hotel-Forres | [分析](./CASE-40-Royal-Station-Hotel-Forres/分析.md) | [CSV](./CASE-40-Royal-Station-Hotel-Forres/基础数据.csv) | [原图](./CASE-40-Royal-Station-Hotel-Forres/原图/48689070e46426f2939214a35e9a9de0.jpg) |
-| CASE-41-130-a-os-de-la-dama-de-hierro-埃菲尔铁塔130年 | [分析](./CASE-41-130-a-os-de-la-dama-de-hierro-埃菲尔铁塔130年/分析.md) | [CSV](./CASE-41-130-a-os-de-la-dama-de-hierro-埃菲尔铁塔130年/基础数据.csv) | [原图](./CASE-41-130-a-os-de-la-dama-de-hierro-埃菲尔铁塔130年/原图/3.12.jpg) |
-| CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-六朝金陵天文学 | [分析](./CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-六朝金陵天文学/分析.md) | [CSV](./CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-六朝金陵天文学/基础数据.csv) | [原图](./CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-六朝金陵天文学/原图/05b5d2e830e8495f0272f2db4fc9c22c.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-01 | [自行车演化史](CASE-01-%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%BC%94%E5%8C%96%E5%8F%B2/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-01-%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%BC%94%E5%8C%96%E5%8F%B2/%E5%8E%9F%E5%9B%BE/1.1.jpg) | [CSV](CASE-01-%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%BC%94%E5%8C%96%E5%8F%B2/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-02 | [传播方式演进史](CASE-02-%E4%BC%A0%E6%92%AD%E6%96%B9%E5%BC%8F%E6%BC%94%E8%BF%9B%E5%8F%B2/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-02-%E4%BC%A0%E6%92%AD%E6%96%B9%E5%BC%8F%E6%BC%94%E8%BF%9B%E5%8F%B2/%E5%8E%9F%E5%9B%BE/1.2.jpg) | [CSV](CASE-02-%E4%BC%A0%E6%92%AD%E6%96%B9%E5%BC%8F%E6%BC%94%E8%BF%9B%E5%8F%B2/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-09 | [香奈儿品牌发展历程](CASE-09-%E9%A6%99%E5%A5%88%E5%84%BF%E5%93%81%E7%89%8C%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-09-%E9%A6%99%E5%A5%88%E5%84%BF%E5%93%81%E7%89%8C%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B/%E5%8E%9F%E5%9B%BE/1.10.jpg) | [CSV](CASE-09-%E9%A6%99%E5%A5%88%E5%84%BF%E5%93%81%E7%89%8C%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-12 | [香港综合格斗发展根源](CASE-12-%E9%A6%99%E6%B8%AF%E7%BB%BC%E5%90%88%E6%A0%BC%E6%96%97%E5%8F%91%E5%B1%95%E6%A0%B9%E6%BA%90/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-12-%E9%A6%99%E6%B8%AF%E7%BB%BC%E5%90%88%E6%A0%BC%E6%96%97%E5%8F%91%E5%B1%95%E6%A0%B9%E6%BA%90/%E5%8E%9F%E5%9B%BE/1.13.jpg) | [CSV](CASE-12-%E9%A6%99%E6%B8%AF%E7%BB%BC%E5%90%88%E6%A0%BC%E6%96%97%E5%8F%91%E5%B1%95%E6%A0%B9%E6%BA%90/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-40 | [Royal Station Hotel, Forres（皇家车站酒店历史信息图）](CASE-40-Royal-Station-Hotel-Forres/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-40-Royal-Station-Hotel-Forres/%E5%8E%9F%E5%9B%BE/48689070e46426f2939214a35e9a9de0.jpg) | [CSV](CASE-40-Royal-Station-Hotel-Forres/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-41 | [130 años de la dama de hierro｜埃菲尔铁塔130年](CASE-41-130-a-os-de-la-dama-de-hierro-%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94130%E5%B9%B4/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-41-130-a-os-de-la-dama-de-hierro-%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94130%E5%B9%B4/%E5%8E%9F%E5%9B%BE/3.12.jpg) | [CSV](CASE-41-130-a-os-de-la-dama-de-hierro-%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94130%E5%B9%B4/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-54 | [Astronomy of the Six Dynasties (220–581 AD) in Jinling｜六朝金陵天文学](CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-%E5%85%AD%E6%9C%9D%E9%87%91%E9%99%B5%E5%A4%A9%E6%96%87%E5%AD%A6/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-%E5%85%AD%E6%9C%9D%E9%87%91%E9%99%B5%E5%A4%A9%E6%96%87%E5%AD%A6/%E5%8E%9F%E5%9B%BE/05b5d2e830e8495f0272f2db4fc9c22c.jpg) | [CSV](CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-%E5%85%AD%E6%9C%9D%E9%87%91%E9%99%B5%E5%A4%A9%E6%96%87%E5%AD%A6/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |

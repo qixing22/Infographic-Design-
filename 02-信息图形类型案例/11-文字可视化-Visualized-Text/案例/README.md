@@ -1,20 +1,10 @@
-# 文字可视化（Visualized Text）｜案例目录
+# 11-文字可视化-Visualized-Text｜案例
 
-## 已归档案例
-- [CASE-65｜文字与人体轮廓组合的信息图](./CASE-65-PPT-S23-I1/分析.md)｜03 编目型｜PPT第23页
-- [CASE-66｜Fast Food Nation 字体与圆形概念图](./CASE-66-PPT-S32-I2/分析.md)｜03 编目型｜PPT第32页
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-当前目录登记2例。两例分别体现文字形态与人体轮廓结合、主题词/品牌图元与彩色圆形组织；报告与字段表已在仓库，PPT嵌入原图尚待补传。
+共 2 例。点击案例名查看图文分析与数据预览。
 
-[返回标签说明](../00-标签说明.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **2** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-65-PPT-S23-I1 | [分析](./CASE-65-PPT-S23-I1/分析.md) | [CSV](./CASE-65-PPT-S23-I1/基础数据.csv) | [原图](./CASE-65-PPT-S23-I1/原图/slide23_image1.jpg) |
-| CASE-66-PPT-S32-I2 | [分析](./CASE-66-PPT-S32-I2/分析.md) | [CSV](./CASE-66-PPT-S32-I2/基础数据.csv) | [原图](./CASE-66-PPT-S32-I2/原图/slide32_image2.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-65 | [文字与人体轮廓组合的信息图](CASE-65-PPT-S23-I1/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-65-PPT-S23-I1/%E5%8E%9F%E5%9B%BE/slide23_image1.jpg) | [CSV](CASE-65-PPT-S23-I1/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-66 | [Fast Food Nation 字体与圆形概念图](CASE-66-PPT-S32-I2/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-66-PPT-S32-I2/%E5%8E%9F%E5%9B%BE/slide32_image2.jpg) | [CSV](CASE-66-PPT-S32-I2/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |

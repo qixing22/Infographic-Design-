@@ -1,37 +1,15 @@
-# 地标型（Location）｜案例目录
+# 07-地标型-Location｜案例
 
-每张案例图建立独立文件夹，原图与分析报告放在同一目录：
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-```text
-案例/
-└── CASE-0001-作品名/
-    ├── 原图.png
-    └── 分析.md
-```
+共 7 例。点击案例名查看图文分析与数据预览。
 
-## 已归档案例
-- [CASE-05-一带一路信息可视化](./CASE-05-一带一路信息可视化/分析.md)
-- [CASE-08-中国传统民居地域类型](./CASE-08-中国传统民居地域类型/分析.md)
-- [CASE-19-象牙贸易与偷猎](./CASE-19-象牙贸易与偷猎/分析.md)
-- [CASE-20-印度巨型雕像](./CASE-20-印度巨型雕像/分析.md)
-- [CASE-24-墨西哥美洲豹保护](./CASE-24-墨西哥美洲豹保护/分析.md)
-- [CASE-39｜POWER CENTERS OF THE FORTUNE 500](./CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/分析.md)
-
-[返回标签说明](../00-标签说明.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **7** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-05-一带一路信息可视化 | [分析](./CASE-05-一带一路信息可视化/分析.md) | [CSV](./CASE-05-一带一路信息可视化/基础数据.csv) | [原图](./CASE-05-一带一路信息可视化/原图/1.6.jpg) |
-| CASE-08-中国传统民居地域类型 | [分析](./CASE-08-中国传统民居地域类型/分析.md) | [CSV](./CASE-08-中国传统民居地域类型/基础数据.csv) | [原图](./CASE-08-中国传统民居地域类型/原图/1.9.jpg) |
-| CASE-19-象牙贸易与偷猎 | [分析](./CASE-19-象牙贸易与偷猎/分析.md) | [CSV](./CASE-19-象牙贸易与偷猎/基础数据.csv) | [原图](./CASE-19-象牙贸易与偷猎/原图/1.25.jpg) |
-| CASE-20-印度巨型雕像 | [分析](./CASE-20-印度巨型雕像/分析.md) | [CSV](./CASE-20-印度巨型雕像/基础数据.csv) | [原图](./CASE-20-印度巨型雕像/原图/2.20.jpg) |
-| CASE-24-墨西哥美洲豹保护 | [分析](./CASE-24-墨西哥美洲豹保护/分析.md) | [CSV](./CASE-24-墨西哥美洲豹保护/基础数据.csv) | [原图](./CASE-24-墨西哥美洲豹保护/原图/2.24.jpg) |
-| CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500 | [分析](./CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/分析.md) | [CSV](./CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/基础数据.csv) | [原图](./CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/原图/a2121f9ef7dae652b65823a8aba9d900.jpg) |
-| CASE-58-Environmental-Collaboration-Office-密尔沃基环保协作办公室 | [分析](./CASE-58-Environmental-Collaboration-Office-密尔沃基环保协作办公室/分析.md) | [CSV](./CASE-58-Environmental-Collaboration-Office-密尔沃基环保协作办公室/基础数据.csv) | [原图](./CASE-58-Environmental-Collaboration-Office-密尔沃基环保协作办公室/原图/5.16.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-05 | [一带一路信息可视化](CASE-05-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-05-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%8E%9F%E5%9B%BE/1.6.jpg) | [CSV](CASE-05-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-08 | [中国传统民居地域类型](CASE-08-%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%B0%91%E5%B1%85%E5%9C%B0%E5%9F%9F%E7%B1%BB%E5%9E%8B/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-08-%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%B0%91%E5%B1%85%E5%9C%B0%E5%9F%9F%E7%B1%BB%E5%9E%8B/%E5%8E%9F%E5%9B%BE/1.9.jpg) | [CSV](CASE-08-%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%B0%91%E5%B1%85%E5%9C%B0%E5%9F%9F%E7%B1%BB%E5%9E%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-19 | [Ivory Tears / Ivory Poaching｜象牙贸易与偷猎](CASE-19-%E8%B1%A1%E7%89%99%E8%B4%B8%E6%98%93%E4%B8%8E%E5%81%B7%E7%8C%8E/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-19-%E8%B1%A1%E7%89%99%E8%B4%B8%E6%98%93%E4%B8%8E%E5%81%B7%E7%8C%8E/%E5%8E%9F%E5%9B%BE/1.25.jpg) | [CSV](CASE-19-%E8%B1%A1%E7%89%99%E8%B4%B8%E6%98%93%E4%B8%8E%E5%81%B7%E7%8C%8E/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-20 | [Indian Giants｜印度巨型雕像](CASE-20-%E5%8D%B0%E5%BA%A6%E5%B7%A8%E5%9E%8B%E9%9B%95%E5%83%8F/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-20-%E5%8D%B0%E5%BA%A6%E5%B7%A8%E5%9E%8B%E9%9B%95%E5%83%8F/%E5%8E%9F%E5%9B%BE/2.20.jpg) | [CSV](CASE-20-%E5%8D%B0%E5%BA%A6%E5%B7%A8%E5%9E%8B%E9%9B%95%E5%83%8F/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-24 | [Buscan proteger a los 4 mil jaguares que quedan en México｜墨西哥美洲豹保护](CASE-24-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E6%B4%B2%E8%B1%B9%E4%BF%9D%E6%8A%A4/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-24-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E6%B4%B2%E8%B1%B9%E4%BF%9D%E6%8A%A4/%E5%8E%9F%E5%9B%BE/2.24.jpg) | [CSV](CASE-24-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%BE%8E%E6%B4%B2%E8%B1%B9%E4%BF%9D%E6%8A%A4/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-39 | [POWER CENTERS OF THE FORTUNE 500](CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/%E5%8E%9F%E5%9B%BE/a2121f9ef7dae652b65823a8aba9d900.jpg) | [CSV](CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) · [Excel](CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500/%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8B%86%E8%A7%A3.xlsx) |
+| CASE-58 | [Environmental Collaboration Office｜密尔沃基环保协作办公室](CASE-58-Environmental-Collaboration-Office-%E5%AF%86%E5%B0%94%E6%B2%83%E5%9F%BA%E7%8E%AF%E4%BF%9D%E5%8D%8F%E4%BD%9C%E5%8A%9E%E5%85%AC%E5%AE%A4/%E5%88%86%E6%9E%90.md) | [地理图型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-58-Environmental-Collaboration-Office-%E5%AF%86%E5%B0%94%E6%B2%83%E5%9F%BA%E7%8E%AF%E4%BF%9D%E5%8D%8F%E4%BD%9C%E5%8A%9E%E5%85%AC%E5%AE%A4/%E5%8E%9F%E5%9B%BE/5.16.jpg) | [CSV](CASE-58-Environmental-Collaboration-Office-%E5%AF%86%E5%B0%94%E6%B2%83%E5%9F%BA%E7%8E%AF%E4%BF%9D%E5%8D%8F%E4%BD%9C%E5%8A%9E%E5%85%AC%E5%AE%A4/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |

@@ -1,30 +1,13 @@
-# 流程图型（Process Infographics）｜案例目录
+# 05-流程图型-Process｜案例
 
-每张案例图建立独立文件夹，原图与分析报告放在同一目录：
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-```text
-案例/
-└── CASE-0001-作品名/
-    ├── 原图.png
-    └── 分析.md
-```
+共 5 例。点击案例名查看图文分析与数据预览。
 
-## 已归档案例
-- 暂无。收到并核验原图、来源及归档许可后建立 CASE 编号。
-
-[返回标签说明](../00-标签说明.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **5** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-06-秦始皇陵兵马俑制作流程 | [分析](./CASE-06-秦始皇陵兵马俑制作流程/分析.md) | [CSV](./CASE-06-秦始皇陵兵马俑制作流程/基础数据.csv) | [原图](./CASE-06-秦始皇陵兵马俑制作流程/原图/1.7.jpg) |
-| CASE-34-婚礼大小事 | [分析](./CASE-34-婚礼大小事/分析.md) | [CSV](./CASE-34-婚礼大小事/基础数据.csv) | [原图](./CASE-34-婚礼大小事/原图/3.9.jpg) |
-| CASE-42-Cracking-the-enigma-兵马俑制作与复原过程 | [分析](./CASE-42-Cracking-the-enigma-兵马俑制作与复原过程/分析.md) | [CSV](./CASE-42-Cracking-the-enigma-兵马俑制作与复原过程/基础数据.csv) | [原图](./CASE-42-Cracking-the-enigma-兵马俑制作与复原过程/原图/3.16.jpg) |
-| CASE-46-Platform-360-协作平台工作流程 | [分析](./CASE-46-Platform-360-协作平台工作流程/分析.md) | [CSV](./CASE-46-Platform-360-协作平台工作流程/基础数据.csv) | [原图](./CASE-46-Platform-360-协作平台工作流程/原图/3.24.jpg) |
-| CASE-56-Future-Food-2040-未来植物肉生产 | [分析](./CASE-56-Future-Food-2040-未来植物肉生产/分析.md) | [CSV](./CASE-56-Future-Food-2040-未来植物肉生产/基础数据.csv) | [原图](./CASE-56-Future-Food-2040-未来植物肉生产/原图/5.7.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-06 | [秦始皇陵兵马俑制作流程](CASE-06-%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-06-%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%8E%9F%E5%9B%BE/1.7.jpg) | [CSV](CASE-06-%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-34 | [婚礼大小事](CASE-34-%E5%A9%9A%E7%A4%BC%E5%A4%A7%E5%B0%8F%E4%BA%8B/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-34-%E5%A9%9A%E7%A4%BC%E5%A4%A7%E5%B0%8F%E4%BA%8B/%E5%8E%9F%E5%9B%BE/3.9.jpg) | [CSV](CASE-34-%E5%A9%9A%E7%A4%BC%E5%A4%A7%E5%B0%8F%E4%BA%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-42 | [Cracking the enigma｜兵马俑制作与复原过程](CASE-42-Cracking-the-enigma-%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E4%B8%8E%E5%A4%8D%E5%8E%9F%E8%BF%87%E7%A8%8B/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-42-Cracking-the-enigma-%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E4%B8%8E%E5%A4%8D%E5%8E%9F%E8%BF%87%E7%A8%8B/%E5%8E%9F%E5%9B%BE/3.16.jpg) | [CSV](CASE-42-Cracking-the-enigma-%E5%85%B5%E9%A9%AC%E4%BF%91%E5%88%B6%E4%BD%9C%E4%B8%8E%E5%A4%8D%E5%8E%9F%E8%BF%87%E7%A8%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-46 | [Platform 360｜协作平台工作流程](CASE-46-Platform-360-%E5%8D%8F%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-46-Platform-360-%E5%8D%8F%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%8E%9F%E5%9B%BE/3.24.jpg) | [CSV](CASE-46-Platform-360-%E5%8D%8F%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-56 | [Future Food 2040｜未来植物肉生产](CASE-56-Future-Food-2040-%E6%9C%AA%E6%9D%A5%E6%A4%8D%E7%89%A9%E8%82%89%E7%94%9F%E4%BA%A7/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-56-Future-Food-2040-%E6%9C%AA%E6%9D%A5%E6%A4%8D%E7%89%A9%E8%82%89%E7%94%9F%E4%BA%A7/%E5%8E%9F%E5%9B%BE/5.7.jpg) | [CSV](CASE-56-Future-Food-2040-%E6%9C%AA%E6%9D%A5%E6%A4%8D%E7%89%A9%E8%82%89%E7%94%9F%E4%BA%A7/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |

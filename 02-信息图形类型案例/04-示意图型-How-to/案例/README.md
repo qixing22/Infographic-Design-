@@ -1,30 +1,13 @@
-# 示意图型（How-to Infographics）｜案例目录
+# 04-示意图型-How-to｜案例
 
-每张案例图建立独立文件夹，原图与分析报告放在同一目录：
+[标签说明](../00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) · [全部表现标签](../../README.md) · [按基础逻辑查案例](../../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
 
-```text
-案例/
-└── CASE-0001-作品名/
-    ├── 原图.png
-    └── 分析.md
-```
+共 5 例。点击案例名查看图文分析与数据预览。
 
-## 已归档案例
-- 暂无。收到并核验原图、来源及归档许可后建立 CASE 编号。
-
-[返回标签说明](../00-标签说明.md)｜[案例分析模板](../../案例分析模板.md)｜[案例索引](../../案例索引.md)
-
-
-## 2026-11-23｜最终案例归档清单
-
-本分类 **5** 个独立案例，均已在GitHub main标准目录核实原图、分析报告、基础数据CSV。
-
-| 案例 | 分析报告 | 基础数据 | 原图 |
-|---|---|---|---|
-| CASE-11-纸扎艺术制作技艺 | [分析](./CASE-11-纸扎艺术制作技艺/分析.md) | [CSV](./CASE-11-纸扎艺术制作技艺/基础数据.csv) | [原图](./CASE-11-纸扎艺术制作技艺/原图/1.12.jpg) |
-| CASE-15-中国戏曲动作与角色知识图 | [分析](./CASE-15-中国戏曲动作与角色知识图/分析.md) | [CSV](./CASE-15-中国戏曲动作与角色知识图/基础数据.csv) | [原图](./CASE-15-中国戏曲动作与角色知识图/原图/1.19.jpg) |
-| CASE-26-桃花坞年画制作与文化 | [分析](./CASE-26-桃花坞年画制作与文化/分析.md) | [CSV](./CASE-26-桃花坞年画制作与文化/基础数据.csv) | [原图](./CASE-26-桃花坞年画制作与文化/原图/2.26.jpg) |
-| CASE-33-睡前活动与助眠 | [分析](./CASE-33-睡前活动与助眠/分析.md) | [CSV](./CASE-33-睡前活动与助眠/基础数据.csv) | [原图](./CASE-33-睡前活动与助眠/原图/3.6.jpg) |
-| CASE-53-Fresh-Noodles-拉面知识与制作 | [分析](./CASE-53-Fresh-Noodles-拉面知识与制作/分析.md) | [CSV](./CASE-53-Fresh-Noodles-拉面知识与制作/基础数据.csv) | [原图](./CASE-53-Fresh-Noodles-拉面知识与制作/原图/4b38e194c1b680c2b1affc2ce9199c78.jpg) |
-
-说明：CASE-31重复记录不独立计数；CASE-37/38已舍弃。原图历史上传位置暂保留备份。
+| 编号 | 案例报告 | 基础逻辑 | 图片 | 基础数据 |
+| --- | --- | --- | --- | --- |
+| CASE-11 | [纸扎艺术制作技艺](CASE-11-%E7%BA%B8%E6%89%8E%E8%89%BA%E6%9C%AF%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-11-%E7%BA%B8%E6%89%8E%E8%89%BA%E6%9C%AF%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/%E5%8E%9F%E5%9B%BE/1.12.jpg) | [CSV](CASE-11-%E7%BA%B8%E6%89%8E%E8%89%BA%E6%9C%AF%E5%88%B6%E4%BD%9C%E6%8A%80%E8%89%BA/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-15 | [中国戏曲动作与角色知识图](CASE-15-%E4%B8%AD%E5%9B%BD%E6%88%8F%E6%9B%B2%E5%8A%A8%E4%BD%9C%E4%B8%8E%E8%A7%92%E8%89%B2%E7%9F%A5%E8%AF%86%E5%9B%BE/%E5%88%86%E6%9E%90.md) | [编年型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/01-%E7%BC%96%E5%B9%B4%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-15-%E4%B8%AD%E5%9B%BD%E6%88%8F%E6%9B%B2%E5%8A%A8%E4%BD%9C%E4%B8%8E%E8%A7%92%E8%89%B2%E7%9F%A5%E8%AF%86%E5%9B%BE/%E5%8E%9F%E5%9B%BE/1.19.jpg) | [CSV](CASE-15-%E4%B8%AD%E5%9B%BD%E6%88%8F%E6%9B%B2%E5%8A%A8%E4%BD%9C%E4%B8%8E%E8%A7%92%E8%89%B2%E7%9F%A5%E8%AF%86%E5%9B%BE/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-26 | [桃花坞年画｜传统木版年画](CASE-26-%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%B9%B4%E7%94%BB%E5%88%B6%E4%BD%9C%E4%B8%8E%E6%96%87%E5%8C%96/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-26-%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%B9%B4%E7%94%BB%E5%88%B6%E4%BD%9C%E4%B8%8E%E6%96%87%E5%8C%96/%E5%8E%9F%E5%9B%BE/2.26.jpg) | [CSV](CASE-26-%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%B9%B4%E7%94%BB%E5%88%B6%E4%BD%9C%E4%B8%8E%E6%96%87%E5%8C%96/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-33 | [睡前活动与助眠](CASE-33-%E7%9D%A1%E5%89%8D%E6%B4%BB%E5%8A%A8%E4%B8%8E%E5%8A%A9%E7%9C%A0/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-33-%E7%9D%A1%E5%89%8D%E6%B4%BB%E5%8A%A8%E4%B8%8E%E5%8A%A9%E7%9C%A0/%E5%8E%9F%E5%9B%BE/3.6.jpg) | [CSV](CASE-33-%E7%9D%A1%E5%89%8D%E6%B4%BB%E5%8A%A8%E4%B8%8E%E5%8A%A9%E7%9C%A0/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
+| CASE-53 | [Fresh Noodles!｜拉面知识与制作](CASE-53-Fresh-Noodles-%E6%8B%89%E9%9D%A2%E7%9F%A5%E8%AF%86%E4%B8%8E%E5%88%B6%E4%BD%9C/%E5%88%86%E6%9E%90.md) | [编目型](../../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/03-%E7%BC%96%E7%9B%AE%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md) | [原图](CASE-53-Fresh-Noodles-%E6%8B%89%E9%9D%A2%E7%9F%A5%E8%AF%86%E4%B8%8E%E5%88%B6%E4%BD%9C/%E5%8E%9F%E5%9B%BE/4b38e194c1b680c2b1affc2ce9199c78.jpg) | [CSV](CASE-53-Fresh-Noodles-%E6%8B%89%E9%9D%A2%E7%9F%A5%E8%AF%86%E4%B8%8E%E5%88%B6%E4%BD%9C/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv) |
