@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-57,已确认
+title,"你坐对了吗？｜久坐与坐姿健康",图面可辨识
+original_filename,"5.10.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"02 文字型／列表型",分类判断
+data_structure,"围绕久坐影响、身体部位风险、常见错误坐姿、建议姿势、活动与缓解方法等并列主题组织。",图面初步拆解
+visual_encoding,"中央沙漏／时钟意象强调时间与久坐；左右栏以橙色图标分组；底部用人物姿势连续小图展示正确坐姿与活动建议；蓝灰底色衬托信息区。",图面初步拆解
+visual_narrative,"以提问式标题吸引注意，先呈现久坐问题，再列出身体风险和错误姿势，最后给出姿势与运动建议。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
