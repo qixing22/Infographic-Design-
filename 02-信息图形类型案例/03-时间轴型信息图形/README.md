@@ -23,3 +23,8 @@
 - 暂无案例。收到案例后，在此建立案例报告链接，并据此更新本说明。
 
 - [CASE-40｜Royal Station Hotel, Forres](./案例/CASE-40-Royal-Station-Hotel-Forres/分析.md)
+
+
+## 2026-11-23｜新增案例
+- [CASE-41](./案例/CASE-41-130-a-os-de-la-dama-de-hierro-埃菲尔铁塔130年/分析.md)
+- [CASE-54](./案例/CASE-54-Astronomy-of-the-Six-Dynasties-220-581-AD-in-Jinling-六朝金陵天文学/分析.md)
