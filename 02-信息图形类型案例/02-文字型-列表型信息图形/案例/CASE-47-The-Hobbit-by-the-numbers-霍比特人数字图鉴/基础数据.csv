@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-47,已确认
+title,"The Hobbit by the numbers｜霍比特人数字图鉴",图面可辨识
+original_filename,"3.25.jpg",上传文件名
+primary_logic,"03 编目型",分类判断
+primary_tag,"02 文字型／列表型",分类判断
+data_structure,"围绕作品世界中的角色、物件、地点、事件与数量指标形成多个独立条目；各项数字作为事实卡片呈现。",图面初步拆解
+visual_encoding,"中央场景插画作为主题底图；数字以大字号独立标出，条目配人物／物件小插图；绿色、红色与浅蓝色区分场景和信息组。",图面初步拆解
+visual_narrative,"先以作品标题与场景确立主题，再通过分布于画面四周的数字条目逐项揭示作品世界的规模和细节。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
