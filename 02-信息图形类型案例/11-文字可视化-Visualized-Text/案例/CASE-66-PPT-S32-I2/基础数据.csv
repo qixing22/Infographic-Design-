@@ -1,0 +1,10 @@
+field,meaning,data_type,source_or_rule,notes
+case_id,案例编号,text,PPT第32页,CASE-66
+title,案例名称,text,PPT嵌入图片识别,Fast Food Nation 字体与圆形概念图
+primary_logic,五大基础逻辑,text,图面组织关系判断,编目型
+visual_tag,17个表现标签,text,仓库标签目录,11-文字可视化-Visualized-Text
+source_slide,PPT页码,integer,第三讲-信息图形类型学(1).pptx,32
+embedded_image_index,页内嵌入图片索引,integer,PPT关系文件顺序,2
+original_image,提取原图文件名,text,PPT嵌入资源,slide32_image2.jpg
+source_dataset,原始结构化数据,text,未随PPT嵌入图提供,不虚构原始数据
+verification_status,核验状态,text,当前图面分析,具体数值与出处待原始来源复核
