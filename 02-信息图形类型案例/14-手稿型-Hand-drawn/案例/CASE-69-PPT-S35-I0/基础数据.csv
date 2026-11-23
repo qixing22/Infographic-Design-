@@ -1,0 +1,10 @@
+field,meaning,data_type,source_or_rule,notes
+case_id,案例编号,text,PPT第35页,CASE-69
+title,案例名称,text,PPT嵌入图片识别,手绘城市地图
+primary_logic,五大基础逻辑,text,图面组织关系判断,地理图型
+visual_tag,17个表现标签,text,仓库标签目录,14-手稿型-Hand-drawn
+source_slide,PPT页码,integer,第三讲-信息图形类型学(1).pptx,35
+embedded_image_index,页内嵌入图片索引,integer,PPT关系文件顺序,0
+original_image,提取原图文件名,text,PPT嵌入资源,slide35_image0.jpg
+source_dataset,原始结构化数据,text,未随PPT嵌入图提供,不虚构原始数据
+verification_status,核验状态,text,当前图面分析,作者来源许可与细节待进一步核验
