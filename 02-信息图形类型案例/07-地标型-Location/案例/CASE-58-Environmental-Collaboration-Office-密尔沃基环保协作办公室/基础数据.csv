@@ -1,0 +1,10 @@
+field,value,source_status
+case_id,CASE-58,已确认
+title,"Environmental Collaboration Office｜密尔沃基环保协作办公室",图面可辨识
+original_filename,"5.16.jpg",上传文件名
+primary_logic,"05 地理图型",分类判断
+primary_tag,"07 地标型／Location",分类判断
+data_structure,"以Milwaukee城市为地理范围，展示环保组织项目、空间分布、绿化／太阳能／基础设施等项目数量和影响指标。",图面初步拆解
+visual_encoding,"左侧城市地图以绿色点位编码项目分布；右侧图标阵列表示项目数量；底部城市天际线建立地方识别；绿色系贯穿全图。",图面初步拆解
+visual_narrative,"先以城市名称和生态愿景定位主题，再展示项目分布，随后说明成果和量化影响，最后以城市景观收束。",图面初步拆解
+source_and_units,待核验,不从低清图像推测
