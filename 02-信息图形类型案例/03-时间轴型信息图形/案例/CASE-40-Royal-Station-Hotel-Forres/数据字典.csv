@@ -1,0 +1,5 @@
+field_name,field_type,description,example
+event_id,string,时间节点记录唯一编号,E001
+date_text,string,原图或已有分析稿中的日期文本,1866
+event_title,string,可辨识事件或主题的简要描述,The Beatles到访酒店
+source_status,string,图面可辨识程度及核验状态,图面可辨识
