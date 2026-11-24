@@ -7,6 +7,7 @@
 | [01 信息图形数据逻辑](01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/README.md) | 五大基础类型定义与案例索引 |
 | [03 ISO信息图](03-ISO%E4%BF%A1%E6%81%AF%E5%9B%BE/README.md) | ISOTYPE 基础设计方法与图标数量编码 |
 | [04 Gestalt视觉感知原则](04-Gestalt%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5%E5%8E%9F%E5%88%99/README.md) | 课件第 6.2 节的 9 项原则与定义原文 |
+| [04 XXX主题信息图形设计](04-XXX%E4%B8%BB%E9%A2%98%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E8%AE%BE%E8%AE%A1/README.md) | 从前期调研到设计实施的项目目录 |
 | [05 统计图形分析](05-%E7%BB%9F%E8%AE%A1%E5%9B%BE%E5%BD%A2%E5%88%86%E6%9E%90/README.md) | 常见统计图形、数据输入、计算与视觉编码的研究框架 |
 | [06 信息图形类型案例](06-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B/README.md) | 17 个表现标签，69 个案例的原图、分析与数据 |
 
