@@ -4,6 +4,8 @@
 
 [按五大基础逻辑查案例](%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md) · [分析模板](%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E6%A8%A1%E6%9D%BF.md) · [录入与知识回写规范](%E6%A1%88%E4%BE%8B%E5%BD%95%E5%85%A5%E4%B8%8E%E7%9F%A5%E8%AF%86%E5%9B%9E%E5%86%99%E8%A7%84%E8%8C%83.md) · [通用数据字段字典](%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E5%AD%97%E6%AE%B5%E5%AD%97%E5%85%B8.csv)
 
+**设计方法标签** · [ISOTYPE](ISOTYPE-%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E6%A0%87%E7%AD%BE.md) · [03 ISO信息图](../03-ISO%E4%BF%A1%E6%81%AF%E5%9B%BE/README.md)
+
 | 表现标签 | 案例数 | 标签说明 | 图文表索引 |
 | --- | --- | --- | --- |
 | 01-混合型信息图形（Mixed Charts） | 11 | [说明](01-%E6%B7%B7%E5%90%88%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%EF%BC%88Mixed%20Charts%EF%BC%89/00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md) | [查看案例](01-%E6%B7%B7%E5%90%88%E5%9E%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%EF%BC%88Mixed%20Charts%EF%BC%89/%E6%A1%88%E4%BE%8B/README.md) |
