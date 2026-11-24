@@ -10,4 +10,4 @@ ISOTYPE（International System of Typographic Picture Education）是一种基�
 
 例如，甲社区有 300 人，乙社区有 500 人。按每个图符代表 100 人绘制，甲排列 3 个图符，乙排列 5 个图符。
 
-[返回 02 的 ISOTYPE 标签入口](../02-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B/ISOTYPE-%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E6%A0%87%E7%AD%BE.md)
+[返回 06 的 ISOTYPE 标签入口](../06-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E7%B1%BB%E5%9E%8B%E6%A1%88%E4%BE%8B/ISOTYPE-%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E6%A0%87%E7%AD%BE.md)
