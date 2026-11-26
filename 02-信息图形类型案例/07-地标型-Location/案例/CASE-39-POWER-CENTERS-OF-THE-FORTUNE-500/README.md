@@ -1,0 +1,15 @@
+# CASE-39-POWER-CENTERS-OF-THE-FORTUNE-500
+
+- [02-图像元数据.csv](02-%E5%9B%BE%E5%83%8F%E5%85%83%E6%95%B0%E6%8D%AE.csv)
+- [03-基础视觉元素.csv](03-%E5%9F%BA%E7%A1%80%E8%A7%86%E8%A7%89%E5%85%83%E7%B4%A0.csv)
+- [04-属性字段字典.csv](04-%E5%B1%9E%E6%80%A7%E5%AD%97%E6%AE%B5%E5%AD%97%E5%85%B8.csv)
+- [05-分类与标签.csv](05-%E5%88%86%E7%B1%BB%E4%B8%8E%E6%A0%87%E7%AD%BE.csv)
+- [06-编码映射.csv](06-%E7%BC%96%E7%A0%81%E6%98%A0%E5%B0%84.csv)
+- [07-制作流程.csv](07-%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B.csv)
+- [08-数据限制.csv](08-%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6.csv)
+- [分析.md](%E5%88%86%E6%9E%90.md)
+- [a2121f9ef7dae652b65823a8aba9d900.jpg](a2121f9ef7dae652b65823a8aba9d900.jpg)
+- [可视化拆解.xlsx](%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8B%86%E8%A7%A3.xlsx)
+- [基础数据.csv](%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE.csv)
+- [数据字典.csv](%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8.csv)
+- [数据局限.md](%E6%95%B0%E6%8D%AE%E5%B1%80%E9%99%90.md)
